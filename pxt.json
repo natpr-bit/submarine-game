@@ -9,7 +9,8 @@
         "README.md",
         "assets.json",
         "Background.ts",
-        "Movement.ts"
+        "Movement.ts",
+        "Sonar.ts"
     ],
     "testFiles": [
         "test.ts"
